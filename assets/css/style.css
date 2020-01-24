@@ -5,9 +5,11 @@
 	padding-bottom: 10px;
 }
 
+
 .thumbnail {
 	border: none;
 	box-shadow: none;
+	border: 1pt;
 }
 
 .placeholder-img {
@@ -22,7 +24,20 @@
 	transform: scale(1.1);
 	opacity:.9;
 	transition: 0.4s;
-	border: 1pt;
+}
+
+#imgborder {
+	height: 130px;
+	width: 230px;
+	opacity: .7;
+}
+
+.#imgborder:hover {
+	height: 130px;
+	width: 230px;
+	transform: scale(1.1);
+	opacity:.9;
+	transition: 0.4s;
 }
 
 .caption h3 {
