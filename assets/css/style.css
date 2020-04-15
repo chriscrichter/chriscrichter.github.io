@@ -41,6 +41,10 @@ h3.panel-title {
 	font-size: 16pt;
 }
 
+.panel-contact {
+	padding: 30px;
+}
+
 #panel-head {
 	background-color: #729dbf;
 }
